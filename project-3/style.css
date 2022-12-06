@@ -36,13 +36,13 @@ h2{
 font-family: 'Bebas Neue', cursive;
 
 a {
-  color: rgb(202, 127, 245);
+  color: red;
 }
 
 a:hover {
   font-size: 50%;
   color: white;
-    text-shadow: 2px 2px 2px rgb(202, 127, 245);}
+    text-shadow: 2px 2px 2px red;}
 
 
 .red:hover{
