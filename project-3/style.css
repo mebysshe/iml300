@@ -1,11 +1,12 @@
 body {
-    background-color: skyblue;
+    background-color: #2140bf;
     text-align: center;
-    font-family: main;
+    font-family: "bebas";
 }
 
 h1{
-    font-family: main;
+    font-family: "bebas";
+    color:white;
 }
 
 img {
@@ -21,15 +22,19 @@ img {
 }
 
 h2{
-    color:skyblue;
+    color:#2140bf;
 }
 
 
 @font-face{
     font-family: main;
-    src:"asset/BebasNeue-Regular.ttf"
+    src: https://fonts.google.com/specimen/Bebas+Neue?query=bebas
 }
 
 div {
   font-family: main;
+}
+
+.hover{
+    font-size: 50%;
 }
