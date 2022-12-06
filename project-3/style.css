@@ -28,9 +28,10 @@ h2{
     color:#2140bf;
 }
 
-.hover{
-    font-size: 50%;
+.text_big{
+    font-size:150%;
 }
+
 
 font-family: 'Bebas Neue', cursive;
 
@@ -41,4 +42,4 @@ a {
 a:hover {
   font-size: 50%;
   color: white;
-  text-shadow: 2px 2px 2px rgb(202, 127, 245);
+    text-shadow: 2px 2px 2px rgb(202, 127, 245);}
