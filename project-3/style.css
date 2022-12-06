@@ -1,9 +1,11 @@
 body {
     background-color: skyblue;
     text-align: center;
+    font-family: main;
 }
-.alternate{
-    background-color:white;
+
+h1{
+    font-family: main;
 }
 
 img {
@@ -19,6 +21,15 @@ img {
 }
 
 h2{
-    color:lightblue;
+    color:skyblue;
 }
 
+
+@font-face{
+    font-family: main;
+    src:"asset/BebasNeue-Regular.ttf"
+}
+
+div {
+  font-family: main;
+}
