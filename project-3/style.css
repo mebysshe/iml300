@@ -44,3 +44,15 @@ a:hover {
   color: white;
     text-shadow: 2px 2px 2px rgb(202, 127, 245);}
 
+
+.red:hover{
+    font-size:175%;
+    color:red;
+    text-shadow: 2px 2px 2px white;
+}
+.solid_red{
+    color:red;
+}
+    
+}
+
