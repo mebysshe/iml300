@@ -1,3 +1,9 @@
+body{
+    background-color:#fab75f;
+    text-align: center;
+    color: white;
+}
+
 .name{
-    color:red;
+    color:white;
 }
