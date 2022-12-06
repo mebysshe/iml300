@@ -7,3 +7,7 @@ body{
 .name{
     color:white;
 }
+
+h1{
+    fill: blue;
+}
