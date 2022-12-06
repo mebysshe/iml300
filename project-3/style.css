@@ -1,10 +1,14 @@
 body {
-    background-color: lime;
+    background-color: skyblue;
+    text-align: center;
+}
+.alternate{
+    background-color:white;
 }
 
 img {
-    width: 200px;
-    height: 200px;
+    height: 50%;
+    width:50%;
 /*    transition: width 2s, height 2s;*/
 }
 .bigger {
@@ -13,3 +17,8 @@ img {
     border-radius: 0%;
     transition: width 2s, height 2s;
 }
+
+h2{
+    color:lightblue;
+}
+
